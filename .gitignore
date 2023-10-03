@@ -1,2 +1,4 @@
 /in/**/*
 /out/**/*
+!/in/.keep
+!/out/.keep
