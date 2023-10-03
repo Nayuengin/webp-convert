@@ -6,4 +6,3 @@ services:
     volumes:
       - ./in:/app/in
       - ./out:/app/out
-      - ./script.sh:/app/script.sh
