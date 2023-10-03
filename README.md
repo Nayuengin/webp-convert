@@ -1,11 +1,11 @@
 # WebP-convert
 
-画像をいつでも`WebP`に一括変換したかったから10分で作った即席コンテナとスクリプトです！
+A makeshift container and script I made in 10 minutes to batch convert images to `WebP` anytime!
 
-## 使い方
+## How to use
 
-1. `in` に変換したい画像を入れる
-2. `docker compose up`
-3. `out` に変換された画像が出力される
+1. Place the images you want to convert in `in`.
+2. Run `docker compose up`.
+3. The converted images will be output in `out`.
 
-おわり！
+That's it!
